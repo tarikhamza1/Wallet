@@ -27,7 +27,10 @@ For this assignment we need to make sure that a few dependencies are installed:
 ## Ethereum
 I was unfortunately not able to do the Ethereum section - after trying over and over again I kept on getting error messages.
 I was able to do the first few steps as shown below in the MyCrypto transactions:
+![ETH Test Python](https://user-images.githubusercontent.com/74984280/117550209-0c28dc80-b00d-11eb-861a-86a521846d0a.png)
+
 ![ETH MyCrypto first transaction](https://user-images.githubusercontent.com/74984280/117550178-e4d20f80-b00c-11eb-87af-7bd260fdfa38.png)
+
 ![Confirmation of first ETH transaction on MyCrypto](https://user-images.githubusercontent.com/74984280/117550179-e69bd300-b00c-11eb-9607-4fb5956f08c5.png)
 
 
