@@ -5,11 +5,12 @@ NOTE: Visual Code set up was never working which made parts of the homework very
 ## Multi-Blockchain Wallet in Python
 ![all-about-crypto-wallet](https://user-images.githubusercontent.com/74984280/117548411-d979e680-b002-11eb-825a-8e5df166e403.jpg)
 
-For this assignment we need to make sure that a few dependencies are installed:  
-hd-wallet-derive tool  
-bit Python Bitcoin library  
-web3.py Python Ethereum library  
-.env file with the constants  
+For this assignment we need to make sure that a few dependencies are installed: 
+  
+- hd-wallet-derive tool  
+- bit Python Bitcoin library  
+- web3.py Python Ethereum library  
+- .env file with the constants  
 
 # BTC Testnet Section
 ## Python Code to send BTC Testnet
